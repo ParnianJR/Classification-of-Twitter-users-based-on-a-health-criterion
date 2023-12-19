@@ -4,7 +4,7 @@ This project aims to recognize whether a Twitter user suffers from an underlying
 This is done by gathering and processing tweets to train several machine learning models like Support Vector Machines, Random Forest, Logistic
 Regression ,and LightGBM.
 
-Here is a brief description for different files provided in this project:
+Here is a brief description for Python files provided in this project:
 - `Constants.py`: Contains constants and configurations used throughout the project.
 - `queries.py`: Contains functions for scraping Twitter data related to specific diseases.
 - `TweetProcessingToolkits.py`:  Contains utility functions for processing and cleaning Twitter text data.
